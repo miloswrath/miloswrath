@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miloswrath&hide=&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miloswrath&hide=jupyter%20notebook&layout=compact)
