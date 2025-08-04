@@ -2,9 +2,7 @@
 {
     #who am i?
     name        = "Zak";
-    os          = [ "NixOS" ];
-    editor      = "Neovim";
-    languages   = [ "python" "typescript" "css" "nix" "figma" ];
+    languages   = [ "python" "rust" "typescript" "css" "nix" "figma" ];
     tools       = [ "kubernetes" "azure" "node" ];
     industries  = [ "research" "healthcare" ];
     goals       = "changing healthcare through UX that actually works";
