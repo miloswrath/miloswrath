@@ -5,7 +5,7 @@
     languages   = [ "python" "rust" "typescript" "css" "nix" "figma" ];
     tools       = [ "kubernetes" "azure" "node" "HPC" ];
     industries  = [ "research" "healthcare" ];
-    goals       = "changing healthcare through UX that actually works";
+    goals       = "changing healthcare through algorithms and UX that actually works";
     hobbies     = [ "cooking" "reading" "minecraft" ];
 }
 ```
