@@ -2,11 +2,11 @@
 {
     #who am i?
     name        = "Zak";
-    languages   = [ "python" "rust" "typescript" "css" "nix" "figma" ];
-    tools       = [ "kubernetes" "azure" "node" "HPC" ];
+    languages   = [ "python" "rust" "typescript" "css" "nix" ];
+    tools       = [ "kubernetes" "azure" "node" "HPC" "figma" ];
     industries  = [ "research" "healthcare" ];
     goals       = "changing healthcare through algorithms and UX that actually works";
-    hobbies     = [ "cooking" "reading" "minecraft" ];
+    hobbies     = [ "cooking" "movies" "gaming" ];
 }
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miloswrath&show_icons=true&theme=onedark&hide_rank=true)
