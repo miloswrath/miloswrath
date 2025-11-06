@@ -3,9 +3,9 @@
     #who am i?
     name        = "Zak";
     languages   = [ "python" "rust" "typescript" "css" "nix" ];
-    tools       = [ "kubernetes" "azure" "node" "HPC" "figma" ];
+    tools       = [ "AWS" "CI - (Actions, CircleCI)" "node" "HPC" "figma" ];
     industries  = [ "research" "healthcare" ];
-    goals       = "changing healthcare through algorithms and UX that actually works";
+    goals       = "Automating success in healthcare and providing insight through UX that actually works";
     hobbies     = [ "cooking" "movies" "gaming" ];
 }
 ```
